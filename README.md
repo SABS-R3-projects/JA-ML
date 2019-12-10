@@ -27,6 +27,8 @@ jupyter notebook
 
 Following this, the user should open the *_MAIN.ipynb_* and run the commands. 
 
+For running commands for specific DUD-E Targets, run the *_MAIN->target name>.ipynb_* files.
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
